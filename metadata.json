@@ -1,0 +1,6 @@
+{
+  "name": "HIGH ACADEMY - Premium Coaching Center",
+  "description": "Official website for HIGH ACADEMY in Sylhet, Bangladesh. Established in 2012, offering premier HSC Science, Medical, Engineering, and University admission coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
